@@ -6,6 +6,6 @@
     <b>The Big Book of Fire-Breathing Dragons</b>
   </h1>
   <p align="center">Video game modding made simple<br>
-    <img src="../github-metrics.svg" alt="Metrics">
+    <img src="https://raw.githubusercontent.com/TBBOFBD/.github/main/github-metrics.svg" alt="Metrics">
   </p>
 </a>
